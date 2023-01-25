@@ -1,2 +1,6 @@
 
 .DS_Store
+*.jpg
+*.zip
+kaggle.json
+sampleSubmission.csv
