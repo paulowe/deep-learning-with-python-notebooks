@@ -4,3 +4,7 @@
 *.zip
 kaggle.json
 sampleSubmission.csv
+*.png
+*.xml
+*.mat
+*.gz
